@@ -15,3 +15,8 @@ In the notebook, you will see:
 🚀 A one-click .launch() to run the app locally
 
 In this challenge I had to use all the AI/LLM skills I learnt from the Hugging Face Course from Jose Portilla to succesfully finish this project.
+
+To use this you can download the file, make sure you have all the nessecary libraries which is in the first cell starting with import...
+This is an example of my Project running
+
+<img width="452" height="253" alt="image" src="https://github.com/user-attachments/assets/a5c692d4-3e02-4768-a355-aa583dd35235" />
