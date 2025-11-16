@@ -14,4 +14,4 @@ In the notebook, you will see:
 
 🚀 A one-click .launch() to run the app locally
 
-In this challenge I had to use all the AI/LLM skills I learn from the Hugging Face Course from Jose Portilla to succesfully finish this project.
+In this challenge I had to use all the AI/LLM skills I learnt from the Hugging Face Course from Jose Portilla to succesfully finish this project.
