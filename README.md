@@ -1,4 +1,4 @@
-# Image-Classifier-LLM
+Image-Classifier-LLM
 
 🤖🖼️ Machine Learning Image Classifier with Gradio
 
@@ -7,16 +7,16 @@ This project uses Gradio to create a simple and interactive image classification
 In the notebook, you will see:
 
 📦 Importing and loading a pretrained computer vision model
-
 🧠 A classify_image() function that processes an uploaded image and predicts its label
-
 🖥️ A Gradio Interface that lets users upload any image and instantly see the model’s prediction
-
 🚀 A one-click .launch() to run the app locally
 
-In this challenge I had to use all the AI/LLM skills I learnt from the Hugging Face Course from Jose Portilla to succesfully finish this project.
+In this challenge, I used the AI/LLM skills I learned from the Hugging Face Course by Jose Portilla to successfully complete the project.
 
-To use this you can download the file, make sure you have all the nessecary libraries which is in the first cell starting with import...
-This is an example of my Project running
+This type of image classification technology is also important for future Mars exploration, where AI systems may help identify terrain, detect hazards, classify rocks, and assist autonomous rovers in navigation.
 
-<img width="452" height="253" alt="image" src="https://github.com/user-attachments/assets/a5c692d4-3e02-4768-a355-aa583dd35235" />
+To use this, download the file and ensure you have all the necessary libraries listed in the first cell (starting with import...).
+This is an example of my project running:
+
+<img width="524" height="232" alt="image" src="https://github.com/user-attachments/assets/4af9e17b-28ca-459b-b68d-1e5011b00d74" />
+
