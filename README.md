@@ -20,3 +20,4 @@ This is an example of my project running:
 
 <img width="524" height="232" alt="image" src="https://github.com/user-attachments/assets/4af9e17b-28ca-459b-b68d-1e5011b00d74" />
 
+link for demo video: https://youtu.be/09-6cYUGkPM
